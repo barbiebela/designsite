@@ -1,0 +1,19 @@
+body{
+  background-color: #C6BEFF
+}
+table{
+  color:#FF5503
+}
+#texto2{
+  text-align: center;
+}
+#inscrever{
+  text-align: center;
+}
+#static{
+  border: 1px solid black;
+  margen-bottom:100px;
+  background-color:lightblue;
+  position:solid;
+  left:100px;
+}
